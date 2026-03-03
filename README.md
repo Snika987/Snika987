@@ -2,7 +2,7 @@
 
 # Welcome to my side of GitHub 👋
 
-### I'm Sanika and this is where I explore, build and learn.
+### *I'm Sanika, this is where I explore, build and learn.*
 
 </div>
 
